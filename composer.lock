@@ -2106,16 +2106,16 @@
         },
         {
             "name": "php-flasher/flasher",
-            "version": "v1.10.1",
+            "version": "v1.10.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-flasher/flasher.git",
-                "reference": "ddc8f44aa2bc1fed129fdb6f1e71819adae57d55"
+                "reference": "9eba1ff54739482b02a7beff35bd3b37510ec118"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-flasher/flasher/zipball/ddc8f44aa2bc1fed129fdb6f1e71819adae57d55",
-                "reference": "ddc8f44aa2bc1fed129fdb6f1e71819adae57d55",
+                "url": "https://api.github.com/repos/php-flasher/flasher/zipball/9eba1ff54739482b02a7beff35bd3b37510ec118",
+                "reference": "9eba1ff54739482b02a7beff35bd3b37510ec118",
                 "shasum": ""
             },
             "require": {
@@ -2162,7 +2162,7 @@
                 "toastr"
             ],
             "support": {
-                "source": "https://github.com/php-flasher/flasher/tree/v1.10.1"
+                "source": "https://github.com/php-flasher/flasher/tree/v1.10.5"
             },
             "funding": [
                 {
@@ -2186,20 +2186,20 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2022-12-26T11:22:42+00:00"
+            "time": "2022-12-27T00:42:21+00:00"
         },
         {
             "name": "php-flasher/flasher-laravel",
-            "version": "v1.10.4",
+            "version": "v1.10.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-flasher/flasher-laravel.git",
-                "reference": "ab2a91da4021788efbfb8ec0354b5bd09bfa06f5"
+                "reference": "6c491d125c229c01f36fef619a7ec5b5a885d55c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-flasher/flasher-laravel/zipball/ab2a91da4021788efbfb8ec0354b5bd09bfa06f5",
-                "reference": "ab2a91da4021788efbfb8ec0354b5bd09bfa06f5",
+                "url": "https://api.github.com/repos/php-flasher/flasher-laravel/zipball/6c491d125c229c01f36fef619a7ec5b5a885d55c",
+                "reference": "6c491d125c229c01f36fef619a7ec5b5a885d55c",
                 "shasum": ""
             },
             "require": {
@@ -2254,7 +2254,7 @@
                 "yoeunes"
             ],
             "support": {
-                "source": "https://github.com/php-flasher/flasher-laravel/tree/v1.10.4"
+                "source": "https://github.com/php-flasher/flasher-laravel/tree/v1.10.5"
             },
             "funding": [
                 {
@@ -2278,7 +2278,7 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2022-12-30T11:58:54+00:00"
+            "time": "2023-01-05T15:54:46+00:00"
         },
         {
             "name": "phpoption/phpoption",
