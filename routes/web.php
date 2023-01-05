@@ -1,5 +1,6 @@
 <?php
 
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -17,3 +18,9 @@ Route::get('/', function () {
     flash('ok');
     return view('welcome');
 });
+
+/* Route::get('/', function (Request $request) {
+    $request->flash('ok');
+    return view('welcome');
+});
+ */
